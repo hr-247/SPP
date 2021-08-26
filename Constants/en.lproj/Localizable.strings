@@ -1,0 +1,101 @@
+/*
+localised.strings
+SPP
+
+Created by sanganan on 1/14/20.
+Copyright © 2020 Sanganan. All rights reserved.
+*/
+"HomeKey"    = "Home";
+"DetailsKey"  =  "Details";
+"DescriptionKey" =   "Description";
+"UITagendaKey" =   "UITagenda";
+"OntdekKey"  =  "Ontdek";
+"TipsKey"  =  "Tips";
+//"IBusinessKey" =   "Nieuws" ;   //In het bedrijfsleven
+"IBusinessKey" =   "in Business" ;   //In het bedrijfsleven
+"Alert&GiftsKey" =  "Alert & Gifts";
+"SignOutKey"  = "Sign Out";
+"SignInKey" =  "Sign In";
+"TipsDetKey"  = "Tips Details";
+"BusinessDetKey"  =  "News Details";
+"MoreInKey" =      "More Info" ;   // Meer informatie
+"ReadMoKey"  =  "Read More" ;  // "Lees meer"
+"UitgelichtKey"  =  "Uitgelicht";
+"DNHaccountKey"  =  "Don't have an account?";
+"FullNameKey" =   "Full Name";
+"UserNameKey" =  "User Name";
+"PhoneNumberKey"  = "Phone Number";
+"GenderKey"  =  "Gender";
+"ProfileKey" =  "Profile";
+"SignIGoogleKey"  =  "Sign In With Google";
+"SignIFacebookKey" = "Sign In With Facebook";
+"SignIApple" = "Sign In With Apple";
+"MaleKey"   =" Male";
+"FemaleKey" =  "Female";
+"SignUpKey" =  "Sign Up";
+"DateKey"=  " Date";
+"TimeKey" =  "Time";
+"CancelKey" = "Cancel";
+"OKKey" = "OK";
+"GiftKey"  =  "Gift";
+"AlertKey" = " Alert";
+"AlertsAbKey"  = "Alerts About";
+"NoInternetKey"  =  "No Internet. Please check your Internet connection.";
+"InternetconKey"  = "Internet connected.";
+"fBUrlProfileKey"    = "http://graph.facebook.com/%1$s/picture?type=large";
+"LocationKey"  =     "Location" ;       // Plaats
+"ChrisKey"  =  "Chris";
+"SpainKey"  =  "Spain";
+"signInAlertKey"   = "Please sign in to set an alert.";
+"signOutConfirmKey"  = "Are you sure you want to sign out ?";
+"AlertKey"  =  "Alert";
+"SomeWrongKey"  = "Something went wrong.";
+"enableGPSKey"  =  "Please enable your GPS.";
+"YouAreHereKey"  =  "You are here.";
+"SignedInSucKey"  =  "Signed in successfully.";
+"SignedOutSucKey" = "Signed out successfully.";
+"13 November"  = "13 November";
+"userPermKey"  =  "This feature requires user permissions.";
+"grantPermKey" =   "Please grant permissions manually from setting.";
+"updateProfPicKey"  =  "Select any to update profile picture.";
+"CameraKey"  =  "Camera";
+"GalleryKey" =  "Gallery";
+//"UitgelichtKey" =  "%1$d Uitgelicht";
+//"NieuweKey" = "%1$d Nieuwe";
+//"BusinessKey"  = "%1$d Business";
+"beginningListKey" =   "You are at beginning of list.";
+"endListKey" =  "You are at end of list.";
+"GotoWebsiteKey"    =  "Go to Website " ; // Ga naar website
+"GerelAgendaKey" =  "Gerelateerd in agenda"  ; // Gerelateerd in agenda
+"OrganizerKey"  =  "Organizer";
+"ContactKey"   = "Contact";
+"PriceKey"  = "Price";
+//"€-%1$sKey"  = "€-%1$s";
+"NoDataKey"  =  "No data found.";
+"SetdateKey" =   "Datum instellen" ; // Datum instellen
+"TijdInstKey"   = "Tijd instellen"  ; // Tijd instellen
+"T&CandPrivacyKey"  =  "Clicking Sign In means that you agree to the";
+"T&CKey"   = "Terms & Conditions";
+"PPolicyKey"  =  "Privacy Policy";
+"dateAndTimeKey"   = "Please select both date and time";
+"AlertSetForKey"  =  "Alert set for:";
+"MapKey" = "Map";
+"ChooseCategoryKey" = "Choose Category";
+"AllowKey" = "Allow";
+"IMPORTANTKey" = "IMPORTANT";
+"NotificationKey" = "Notification access required";
+"SettingsKey" = "Settings";
+"LocPermKey" = "Location Permission Required";
+"AndKey" = "and";
+"SelDateKey" =  "Please select date";
+"SelTimeKey" =  "Please select time";
+"NotReachNotifyKey" = "Could not start reachability notifier";
+"wntGiftKey" = "I want gifts";
+"wntAlertKey" = "I want alerts";
+"optionKey" = "Please choose an option";
+"googleMapKey" = "Google map";
+"appleMapKey" = "Apple map";
+"quizKey" = "Quiz";
+
+
+
